@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/niha-amajala/kanbas-server-app.git"
+    "url": "git+https://github.com/niharika-amajala/kanbas-server-app"
   },
   "keywords": [
     "Node",
@@ -19,7 +19,7 @@
   "author": "Niharika Amajala",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/niha-amajala/kanbas-server-app/issues"
+    "url": "https://github.com/niharika-amajala/kanbas-server-app"
   },
-  "homepage": "https://github.com/niha-amajala/kanbas-server-app#readme"
+  "homepage": "https://github.com/niharika-amajala/kanbas-server-app"
 }
