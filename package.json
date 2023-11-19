@@ -1,0 +1,25 @@
+{
+  "name": "kanbas-node-server-app",
+  "version": "1.0.0",
+  "description": "kanbas-server-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niha-amajala/kanbas-server-app.git"
+  },
+  "keywords": [
+    "Node",
+    "REST",
+    "Server",
+    "HTTP"
+  ],
+  "author": "Niharika Amajala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niha-amajala/kanbas-server-app/issues"
+  },
+  "homepage": "https://github.com/niha-amajala/kanbas-server-app#readme"
+}
