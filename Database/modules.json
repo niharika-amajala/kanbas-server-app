@@ -1,0 +1,242 @@
+[
+  {
+    "_id": "M401",
+    "name": "Space Navigation and Communication",
+    "description": "Introduction to communication systems and navigation tools used in space.",
+    "course": "RS101",
+    "lessons": [
+      {
+        "name": "Space Navigation I",
+        "description": "Space navigation involves techniques and tools to accurately determine the position of spacecraft and plan its trajectory."
+      },
+      {
+        "name": "Space Communication I",
+        "description": "Understanding the basics of communication between Earth stations and spacecraft, including satellites and deep space probes."
+      }
+    ]
+  },
+  {
+    "_id": "M402",
+    "name": "Astrophysics and Cosmology",
+    "description": "Dive deep into the universe, its phenomena, and origins.",
+    "course": "RS101",
+    "lessons": [
+      {
+        "name": "Basics of Astrophysics",
+        "description": "A study on stars, galaxies, black holes, and the overall structure of the universe."
+      },
+      {
+        "name": "Cosmology Concepts",
+        "description": "Exploring the origins, development, and fate of the universe."
+      }
+    ]
+  },
+  {
+    "_id": "M403",
+    "name": "Planetary Science and Exploration",
+    "description": "Study of planets, including their composition and internal structure.",
+    "course": "RS101",
+    "lessons": [
+      {
+        "name": "Planetary Formation",
+        "description": "Understanding the processes leading to the formation of planets and other celestial bodies."
+      },
+      {
+        "name": "Exploring Exoplanets",
+        "description": "Discovering planets outside our solar system and the potential for life."
+      }
+    ]
+  },
+  {
+    "_id": "M501",
+    "name": "Rocket Staging and Sequencing",
+    "description": "Study of multi-stage rockets and the process of staging.",
+    "course": "RS102",
+    "lessons": [
+      {
+        "name": "Staging Dynamics",
+        "description": "How multi-stage rockets optimize their payload delivery to space."
+      },
+      {
+        "name": "Sequencing Systems",
+        "description": "Mechanisms and control systems that manage the release and ignition of each stage."
+      }
+    ]
+  },
+  {
+    "_id": "M502",
+    "name": "Space Mission Design",
+    "description": "Principles behind designing space missions for various objectives.",
+    "course": "RS102",
+    "lessons": [
+      {
+        "name": "Mission Objectives and Planning",
+        "description": "Setting goals for space missions and creating a roadmap for achieving them."
+      },
+      {
+        "name": "Risk Management in Space Missions",
+        "description": "Identifying, assessing, and mitigating potential risks in space missions."
+      }
+    ]
+  },
+  {
+    "_id": "M503",
+    "name": "Advanced Propulsion Systems",
+    "description": "Exploration of new-age propulsion systems beyond chemical rockets.",
+    "course": "RS102",
+    "lessons": [
+      {
+        "name": "Nuclear Propulsion",
+        "description": "Using nuclear reactions to achieve higher thrust and efficiency."
+      },
+      {
+        "name": "Ionic and Electric Propulsion",
+        "description": "Understanding propulsion systems that use electric or magnetic fields to generate thrust."
+      }
+    ]
+  },
+  {
+    "_id": "M601",
+    "name": "Astrobiology and Search for Extraterrestrial Life",
+    "description": "Study of life in the universe and the conditions required for its existence.",
+    "course": "RS103",
+    "lessons": [
+      {
+        "name": "Origins of Life",
+        "description": "Exploring theories and evidences regarding the beginning of life on Earth."
+      },
+      {
+        "name": "Extraterrestrial Habitats",
+        "description": "Identifying celestial bodies with the potential to host life and the methods to detect it."
+      }
+    ]
+  },
+  {
+    "_id": "M602",
+    "name": "Advanced Spacecraft Design",
+    "description": "In-depth study of spacecraft design including advanced systems and technologies.",
+    "course": "RS103",
+    "lessons": [
+      {
+        "name": "Spacecraft Automation and Robotics",
+        "description": "Use of robotics and automated systems in spacecraft for exploration and operations."
+      },
+      {
+        "name": "Spacecraft Material Science",
+        "description": "Selection and optimization of materials for spacecraft to withstand the harsh space environment."
+      }
+    ]
+  },
+  {
+    "_id": "M603",
+    "name": "Space Policy and Ethics",
+    "description": "Discussion on policies governing space activities and the ethical considerations.",
+    "course": "RS103",
+    "lessons": [
+      {
+        "name": "International Space Treaties",
+        "description": "Understanding international agreements and regulations related to space exploration and use."
+      },
+      {
+        "name": "Ethical Considerations in Space Exploration",
+        "description": "Addressing the moral implications of exploring and potentially colonizing other planets."
+      }
+    ]
+  },
+  {
+    "_id": "M702",
+    "name": "LandRover Design",
+    "description": "Introduction to LandRover design principles and methodologies.",
+    "course": "RS104",
+    "lessons": [
+      {
+        "name": "LandRover Design Basics",
+        "description": "Understanding the foundational concepts behind the iconic LandRover designs."
+      },
+      {
+        "name": "Advanced LandRover Design Techniques",
+        "description": "Exploring advanced techniques and principles used in LandRover vehicle designs."
+      }
+    ]
+  },
+  {
+    "_id": "M703",
+    "name": "PSLV Launch Vehicles",
+    "description": "Introduction to the design, functioning, and launch procedures of PSLV.",
+    "course": "RS105",
+    "lessons": [
+      {
+        "name": "Basics of PSLV",
+        "description": "Overview of the PSLV launch vehicle, its components, and its history."
+      },
+      {
+        "name": "Advanced PSLV Launch Procedures",
+        "description": "Detailed exploration of the launch procedures and techniques employed in PSLV missions."
+      }
+    ]
+  },
+  {
+    "_id": "M704",
+    "name": "Seminar on GSLV",
+    "description": "Introduction to GSLV rockets, their designs, and launch procedures.",
+    "course": "RS106",
+    "lessons": [
+      {
+        "name": "GSLV Basics",
+        "description": "Understanding the foundational concepts behind GSLV rockets and their launches."
+      },
+      {
+        "name": "Advanced GSLV Techniques",
+        "description": "Delving into the intricacies and advanced methodologies used in GSLV missions."
+      }
+    ]
+  },
+  {
+    "_id": "M802",
+    "name": "LandRover Design",
+    "description": "Introduction to LandRover design principles and methodologies.",
+    "course": "RS104",
+    "lessons": [
+      {
+        "name": "LandRover Design Basics",
+        "description": "Understanding the foundational concepts behind the iconic LandRover designs."
+      },
+      {
+        "name": "Advanced LandRover Design Techniques",
+        "description": "Exploring advanced techniques and principles used in LandRover vehicle designs."
+      }
+    ]
+  },
+  {
+    "_id": "M803",
+    "name": "PSLV Launch Vehicles",
+    "description": "Introduction to the design, functioning, and launch procedures of PSLV.",
+    "course": "RS105",
+    "lessons": [
+      {
+        "name": "Basics of PSLV",
+        "description": "Overview of the PSLV launch vehicle, its components, and its history."
+      },
+      {
+        "name": "Advanced PSLV Launch Procedures",
+        "description": "Detailed exploration of the launch procedures and techniques employed in PSLV missions."
+      }
+    ]
+  },
+  {
+    "_id": "M804",
+    "name": "Seminar on GSLV",
+    "description": "Introduction to GSLV rockets, their designs, and launch procedures.",
+    "course": "RS106",
+    "lessons": [
+      {
+        "name": "GSLV Basics",
+        "description": "Understanding the foundational concepts behind GSLV rockets and their launches."
+      },
+      {
+        "name": "Advanced GSLV Techniques",
+        "description": "Delving into the intricacies and advanced methodologies used in GSLV missions."
+      }
+    ]
+  }
+]

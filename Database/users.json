@@ -1,0 +1,112 @@
+[
+    {
+      "_id": "121",
+      "username": "JKJerome",
+      "password": "threeMeninABoat",
+      "firstName": "Jerome K",
+      "lastName": "Jerome",
+      "email": "jkj@neu.edu",
+      "dob": "1970-05-29",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "122",
+      "username": "dark_knight",
+      "password": "wayne123",
+      "firstName": "Bruce",
+      "lastName": "Wayne",
+      "email": "w.bruce@neu.edu",
+      "dob": "1997-02-19",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "123",
+      "username": "Robbie",
+      "password": "deadPoetsSociety",
+      "firstName": "Robbie",
+      "lastName": "Williams",
+      "email": "robbie.williams@neu.edu",
+      "dob": "1996-09-04",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "124",
+      "username": "scarlet_witch",
+      "password": "multiverse",
+      "firstName": "Elizabeth",
+      "lastName": "Olsen",
+      "email": "olsen.elizabeth@neu.edu",
+      "dob": "1998-11-22",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "125",
+      "username": "DrStrange",
+      "password": "AwayFromHome",
+      "firstName": "Dr",
+      "lastName": "Strange",
+      "email": "dr.strange@neu.edu",
+      "dob": "1997-05-25",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "126",
+      "username": "ARRahman",
+      "password": "Prodigy23",
+      "firstName": "Rahman",
+      "lastName": "AR",
+      "email": "ar.rahman@neu.edu",
+      "dob": "1996-12-18",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "127",
+      "username": "Karen",
+      "password": "Annoying",
+      "firstName": "Karen",
+      "lastName": "G",
+      "email": "g.karen@neu.edu",
+      "dob": "1995-09-22",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "128",
+      "username": "Dobby",
+      "password": "HarryPotter",
+      "firstName": "Dobby",
+      "lastName": "isFree",
+      "email": "f.dobby@neu.edu",
+      "dob": "1998-06-01",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "129",
+      "username": "gwen23",
+      "password": "gwenStefaniCool",
+      "firstName": "Gwen",
+      "lastName": "Stefani",
+      "email": "gwen.stefani@neu.edu",
+      "dob": "1999-03-01",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "130",
+      "username": "deadpool",
+      "password": "deadpoolRocks",
+      "firstName": "Ryan",
+      "lastName": "Reynolds",
+      "email": "r.ryan@neu.edu",
+      "dob": "1997-05-01",
+      "role": "TA"
+    },
+    {
+      "_id": "131",
+      "username": "KevinD",
+      "password": "NBAFinals",
+      "firstName": "Kevin",
+      "lastName": "Durant",
+      "email": "kevin.durant@neu.edu",
+      "dob": "1997-07-15",
+      "role": "FACULTY"
+    }
+  ]
