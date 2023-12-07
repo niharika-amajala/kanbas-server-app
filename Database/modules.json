@@ -144,7 +144,7 @@
     ]
   },
   {
-    "_id": "M402",
+    "_id": "M702",
     "name": "LandRover Design",
     "description": "Introduction to LandRover design principles and methodologies.",
     "course": "RS104",
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "_id": "M403",
+    "_id": "M703",
     "name": "PSLV Launch Vehicles",
     "description": "Introduction to the design, functioning, and launch procedures of PSLV.",
     "course": "RS105",
@@ -176,7 +176,7 @@
     ]
   },
   {
-    "_id": "M404",
+    "_id": "M704",
     "name": "Seminar on GSLV",
     "description": "Introduction to GSLV rockets, their designs, and launch procedures.",
     "course": "RS106",
@@ -192,7 +192,7 @@
     ]
   },
   {
-    "_id": "M402",
+    "_id": "M802",
     "name": "LandRover Design",
     "description": "Introduction to LandRover design principles and methodologies.",
     "course": "RS104",
@@ -208,7 +208,7 @@
     ]
   },
   {
-    "_id": "M403",
+    "_id": "M803",
     "name": "PSLV Launch Vehicles",
     "description": "Introduction to the design, functioning, and launch procedures of PSLV.",
     "course": "RS105",
@@ -224,7 +224,7 @@
     ]
   },
   {
-    "_id": "M404",
+    "_id": "M804",
     "name": "Seminar on GSLV",
     "description": "Introduction to GSLV rockets, their designs, and launch procedures.",
     "course": "RS106",

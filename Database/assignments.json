@@ -9,14 +9,14 @@
     { "_id": "A302", "name": "Orbital Calculations", "course": "RS103", "description":"Week 1 - CSS - Week starting on Monday Sept 12th (12/5/2023) Module |", "due": " Oct 4 at 11:59pm | 100pts" },
     { "_id": "A303", "name": "Systems Engineering Exam", "course": "RS103", "description": "Week 2 -  SETUP - Week starting on Monday Nov 5th (11/5/2023) Module |", "due":" Oct 16 at 11:59pm | 100pts" },
 
-    { "_id": "A101", "name": "Propulsion Assignment", "course": "RS104", "description": "Week 0 - SETUP - Week starting on Monday Sept 5th (9/5/2023) Module |", "due":" Sep 18, 2022 at 11:59pm | 100pts" },
-    { "_id": "A102", "name": "Combustion Analysis", "course": "RS104", "description":"Week 1 - CSS - Week starting on Monday Sept 12th (12/5/2023) Module |", "due": " Oct 4 at 11:59pm | 100pts" },
-    { "_id": "A103", "name": "Nozzle Design Project", "course": "RS104", "description": "Week 2 -  SETUP - Week starting on Monday Nov 5th (11/5/2023) Module |", "due":" Oct 16 at 11:59pm | 100pts" },
-    { "_id": "A201", "name": "Aerodynamics Quiz", "course": "RS105", "description": "Week 0 - SETUP - Week starting on Monday Sept 5th (9/5/2023) Module |", "due":" Sep 18, 2022 at 11:59pm | 100pts" },
-    { "_id": "A202", "name": "Flow Analysis", "course": "RS105", "description":"Week 1 - CSS - Week starting on Monday Sept 12th (12/5/2023) Module |", "due": " Oct 4 at 11:59pm | 100pts" },
-    { "_id": "A203", "name": "Heating Analysis", "course": "RS105", "description":"Week 2 -  SETUP - Week starting on Monday Nov 5th (11/5/2023) Module |", "due":" Oct 16 at 11:59pm | 100pts" },
-    { "_id": "A301", "name": "Structural Design Task", "course": "RS106", "description": "Week 0 - SETUP - Week starting on Monday Sept 5th (9/5/2023) Module |", "due":" Sep 18, 2022 at 11:59pm | 100pts" },
-    { "_id": "A302", "name": "Orbital Calculations", "course": "RS106", "description":"Week 1 - CSS - Week starting on Monday Sept 12th (12/5/2023) Module |", "due": " Oct 4 at 11:59pm | 100pts" },
-    { "_id": "A303", "name": "Systems Engineering Exam", "course": "RS106", "description": "Week 2 -  SETUP - Week starting on Monday Nov 5th (11/5/2023) Module |", "due":" Oct 16 at 11:59pm | 100pts" }
+    { "_id": "A104", "name": "Propulsion Assignment", "course": "RS104", "description": "Week 0 - SETUP - Week starting on Monday Sept 5th (9/5/2023) Module |", "due":" Sep 18, 2022 at 11:59pm | 100pts" },
+    { "_id": "A105", "name": "Combustion Analysis", "course": "RS104", "description":"Week 1 - CSS - Week starting on Monday Sept 12th (12/5/2023) Module |", "due": " Oct 4 at 11:59pm | 100pts" },
+    { "_id": "A106", "name": "Nozzle Design Project", "course": "RS104", "description": "Week 2 -  SETUP - Week starting on Monday Nov 5th (11/5/2023) Module |", "due":" Oct 16 at 11:59pm | 100pts" },
+    { "_id": "A204", "name": "Aerodynamics Quiz", "course": "RS105", "description": "Week 0 - SETUP - Week starting on Monday Sept 5th (9/5/2023) Module |", "due":" Sep 18, 2022 at 11:59pm | 100pts" },
+    { "_id": "A205", "name": "Flow Analysis", "course": "RS105", "description":"Week 1 - CSS - Week starting on Monday Sept 12th (12/5/2023) Module |", "due": " Oct 4 at 11:59pm | 100pts" },
+    { "_id": "A206", "name": "Heating Analysis", "course": "RS105", "description":"Week 2 -  SETUP - Week starting on Monday Nov 5th (11/5/2023) Module |", "due":" Oct 16 at 11:59pm | 100pts" },
+    { "_id": "A304", "name": "Structural Design Task", "course": "RS106", "description": "Week 0 - SETUP - Week starting on Monday Sept 5th (9/5/2023) Module |", "due":" Sep 18, 2022 at 11:59pm | 100pts" },
+    { "_id": "A305", "name": "Orbital Calculations", "course": "RS106", "description":"Week 1 - CSS - Week starting on Monday Sept 12th (12/5/2023) Module |", "due": " Oct 4 at 11:59pm | 100pts" },
+    { "_id": "A306", "name": "Systems Engineering Exam", "course": "RS106", "description": "Week 2 -  SETUP - Week starting on Monday Nov 5th (11/5/2023) Module |", "due":" Oct 16 at 11:59pm | 100pts" }
   
   ]
